@@ -39,4 +39,4 @@ response = requests.post('https://sh.dataspace.copernicus.eu/api/v1/process',
     }
     """
 })
-print(response),
+print(response)

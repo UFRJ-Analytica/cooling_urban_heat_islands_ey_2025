@@ -3,3 +3,8 @@ requests
 pystac
 pystac_client
 planetary_computer
+pillow
+matplotlib
+rioxarray
+stackstac
+odc
