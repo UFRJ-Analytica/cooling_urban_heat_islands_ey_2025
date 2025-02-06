@@ -22,6 +22,22 @@ O **EY Open Science AI & Data Challenge 2025** é uma competição cujo foco é 
 
 ---
 
+## Cronograma e Planejamento de Submissões
+
+Abaixo está o cronograma oficial do desafio. Recomendamos que as equipes organizem suas tarefas e façam **múltiplas submissões** ao longo do período de competição, maximizando assim a oportunidade de ajustar e refinar o modelo para alcançar a melhor posição no ranking.
+
+| Data (2025)      | Evento                          | Recomendações / Submissões Ideais                                 |
+|------------------|----------------------------------|--------------------------------------------------------------------|
+| **Jan 20**       | **Início da Competição**         | Realizar configuração do ambiente, primeira exploração dos dados   |
+| **Mar 20**       | **Término da Competição**        | Data limite para enviar modelos; recomenda-se enviar várias versões|
+| **Apr 11**       | **Anúncio dos Finalistas**       | Acompanhar resultados e manter documentação e melhorias prontas    |
+| **May 4**        | **Conteúdo dos Finalistas**      | Preparar e enviar material detalhado (se finalista)                |
+| **May 15**       | **Anúncio dos Vencedores**       | Conferir classificação final e apresentação dos resultados          |
+
+**Dica:** Quanto mais cedo e mais vezes forem feitas as submissões, mais feedback sobre o desempenho do modelo vocês terão. Utilize o ranking para iterar na melhoria do pipeline e busque sempre superar as pontuações anteriores.
+
+---
+
 ## Estrutura do Repositório
 
 Abaixo está a arquitetura do projeto em formato ASCII:
