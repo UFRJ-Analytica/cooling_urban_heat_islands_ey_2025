@@ -1,0 +1,5 @@
+rasterio
+requests
+pystac
+pystac_client
+planetary_computer
