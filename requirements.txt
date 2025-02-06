@@ -8,3 +8,4 @@ matplotlib
 rioxarray
 stackstac
 odc
+seaborn
