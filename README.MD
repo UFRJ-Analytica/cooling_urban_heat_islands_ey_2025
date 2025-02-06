@@ -205,7 +205,8 @@ Verifique termos e condições especificados pela **EY** para uso e distribuiç�
 
 Em caso de dúvidas sobre o projeto ou sugestões:  
 - **Responsável**: [Gustavo Felicidade / Jefferson Rafael]  
-- **Email**: [gustavofelicidade@ufrj.br]  
+- **Email**: [Gustavo](gustavofelicidade@ufrj.br)
+- **Email**: [Jefferson](contatojefferson25@proton.me)
 - **Canal interno**: Whatsapp/Meet/Discord
 
 Boa sorte na competição!
